@@ -7,7 +7,7 @@
         <groupId>com.xuecheng</groupId>
         <artifactId>xuecheng-plus-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-<!--        导入父工程pom文件的路径-->
+<!--        基于当前pom.xml找到父工程-->
         <relativePath>../xuecheng-plus-parent</relativePath> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xuecheng</groupId>
