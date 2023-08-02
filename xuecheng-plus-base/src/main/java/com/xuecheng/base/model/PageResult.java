@@ -15,7 +15,7 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-public class pageResult<T> implements Serializable {
+public class PageResult<T> implements Serializable {
     //数据列表
     private List<T> items;
     //总记录数

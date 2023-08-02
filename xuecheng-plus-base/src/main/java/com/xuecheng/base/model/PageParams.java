@@ -13,7 +13,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-public class pageParams {
+public class PageParams {
 
     //当前页码
     private Long pageNo=1L;
